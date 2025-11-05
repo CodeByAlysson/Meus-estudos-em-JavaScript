@@ -8,5 +8,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-## ** Nesta seção aprenderemos e descobriremos mais sobre o JavaScript **
+Nesta seção você irá aprender e acompanhar todas as minhas jornadas em JavaScript!!
+
+Vem comigo Dev!! 👨🏻‍💻
  
