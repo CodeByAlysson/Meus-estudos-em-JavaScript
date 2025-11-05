@@ -1,4 +1,4 @@
-# Meus-estudos-em-JavaScript  
+# Meus estudos em JavaScript  
 
 <img 
     align="center" 
@@ -12,4 +12,3 @@
 Nesta seção você irá aprender e acompanhar todas as minhas jornadas em JavaScript!!
 
 Vem comigo Dev!! 👨🏻‍💻
- 
