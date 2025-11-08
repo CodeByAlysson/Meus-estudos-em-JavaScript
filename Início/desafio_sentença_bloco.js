@@ -18,7 +18,6 @@ Colocar em outro bloco os números pares de 1 a 10;
     console.log(6);
     console.log(8);
     console.log(10);
-    console.log(12);
-    }
+}
 
 //fim do código
