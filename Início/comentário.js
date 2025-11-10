@@ -8,9 +8,11 @@ console.log("Agora estamos estudando como usar // para fazer um comentário.") /
 
 
 console.log("Agora estamos estudando como usar /* */ para fazer um comentário em várias linhas.")
-/*
- * Isso é um comentário de múltiplas linhas.
- * Ele pode se estender por várias linhas.
- */ 
+/* 
+
+Isso é um comentário de múltiplas linhas.
+Ele pode se estender por várias linhas.
+
+*/ 
 
 console.log("O comentário de múltiplas linhas foi encerrado.")
