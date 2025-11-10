@@ -5,7 +5,8 @@ let preco = 2500.00;
 // Existem duas palavras-chave para criarmos variáveis: var (antigo) ou let (moderno). 
 // Até a especificação ECMAScript 2015 (ES6), a palavra-chave var era utilizada para declarar uma variável. 
 // Entretanto, era possível declararmos duas variáveis com o mesmo nome, o que, às vezes, poderia levar a um resultado imprevisível e incorreto.
-let imposto = 2.5;   // mas também podemos usar var ou const.
+// mas também podemos usar var ou const.
+let imposto = 2.5;
 let precoFinal = preco + (preco * imposto / 100);
 
 
