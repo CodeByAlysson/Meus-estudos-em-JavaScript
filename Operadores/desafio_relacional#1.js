@@ -6,11 +6,11 @@ console.log(a < b);      // true
 console.log(a <= b);     // true
 console.log(b > a);      // true
 console.log(b >= a);     // true
-console.log(a != b);     // true
+console.log(a !== b);     // true - a é extritamente diferente de b
 
 // encontre 5 expressões que o resultado seja false
 console.log(a > b);      // false
 console.log(a >= b);    // false
 console.log(b < a);      // false
 console.log(b <= a);     // false
-console.log(a == b);     // false  
+console.log(b !== b);     // false  - b é extritamente igual a b
