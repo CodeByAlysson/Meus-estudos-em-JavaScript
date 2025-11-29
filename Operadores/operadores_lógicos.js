@@ -11,6 +11,8 @@ console.log("Resultado do AND (a && b):", resultadoAND);
 let resultadoOR = a || b; // true, porque a é true
 console.log("Resultado do OR (a || b):", resultadoOR);
 
-// Operador NOT (!) - Utilizado para inverter o valor de uma expressão booleana.    
+/* Operador NOT (!) - Utilizado para inverter o valor de uma expressão booleana, 
+nega uma afirmação. */ 
+
 let resultadoNOT = !a; // false, porque a é true
 console.log("Resultado do NOT (!a):", resultadoNOT);
